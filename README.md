@@ -1,12 +1,8 @@
 # 🚀 Tailwind CSS Learning Journey
 
-\<p align="center">
-&#x20; \<img src="screenshots/portfolio.png" alt="Jatin Codes Portfolio Preview" width="100%">
-\</p>
+A hands-on journey into modern frontend development using Tailwind CSS. \</p>
 
-\<p align="center">   A hands-on journey into modern frontend development using Tailwind CSS. \</p>
-
-\<p align="center">   \<a href="[https://codelikejatin.github.io/tailwind-css-learning/](https://codelikejatin.github.io/tailwind-css-learning/)">Live Demo\</a> •   \<a href="[https://github.com/CodeLikeJatin](https://github.com/CodeLikeJatin)">GitHub Profile\</a> \</p>
+ \<a href="[https://codelikejatin.github.io/tailwind-css-learning/](https://codelikejatin.github.io/tailwind-css-learning/)">Live Demo\</a> •   \<a href="[https://github.com/CodeLikeJatin](https://github.com/CodeLikeJatin)">GitHub Profile\</a> \</p>
 
 ---
 
