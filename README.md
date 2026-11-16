@@ -76,13 +76,13 @@ tailwind-css-learning/
 Clone the repository:
 
 ```bash
-git clone https://github.com/CodeLikeJatin/tailwind-css-learning.git
+git clone https://github.com/CodeLikeJatin/Portfolio-tailwind-css
 ```
 
 Navigate into the project:
 
 ```bash
-cd tailwind-css-learning
+cd Portfolio-tailwind-css
 ```
 
 Install dependencies:
