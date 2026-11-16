@@ -2,7 +2,7 @@
 
 A hands-on journey into modern frontend development using Tailwind CSS.
 
- <a href="[https://codelikejatin.github.io/tailwind-css-learning/](https://codelikejatin.github.io/tailwind-css-learning/)">Live Demo</a> 
+ <a href="[[https://codelikejatin.github.io/tailwind-css-learning/](https://codelikejatin.github.io/tailwind-css-learning/](https://github.com/CodeLikeJatin/Portfolio-tailwind-css))">Live Demo</a> 
  • <a href="[https://github.com/CodeLikeJatin](https://github.com/CodeLikeJatin)">GitHub Profile</a> 
 
 ---
